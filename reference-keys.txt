@@ -1,0 +1,15 @@
+descriptives
+within-scope
+within-stop
+models
+prl-ngml
+hpl-μgml
+gh2-ngml
+insulin-uuml
+homa-ir
+glucose-mmoll
+serum-folate-concentration-nm
+folateb12-ratio
+crp-mgl
+maternal-bmi
+red-cell-folate-nmoll
