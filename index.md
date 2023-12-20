@@ -24,26 +24,8 @@ output:
 This page contains analysis results for SCOPE and STOP Hormones and metabolic syndrome analysis.
 
 
-<b>Part I: Raw Data</b><br />
-This section contains methods to estimate hormone concentrations used in analyses.<br />
-
-<b>Part II: Association with Factors</b><br />
-This section contains results from all available data in SCOPE and STOP.<br />
-
-<b>Part III: Uncomplicated Pregnancies</b><br />
-This section contains results for Uncomplicated pregnancies only in SCOPE and STOP.<br />
-
-<b>Part IV: GDM Cases</b><br />
-This section contains results for GDM cases only in SCOPE and STOP.<br />
-
-<b>Part V: Non-GDM Cases</b><br />
-This section contains results for non-GDM cases only in SCOPE and STOP.<br />
-
-<b>Part VI: GDM vs Uncomplicated</b><br />
-This section contains results for GDM vs Uncomplicated pregnancies in SCOPE and STOP. Participants with other outcomes were excluded in this section.<br />
-
-<b>Part VII: GDM vs non-GDM</b><br />
-This section contains results for GDM vs non-GDM cases in SCOPE and STOP.<br />
+<b>Part I: MetS</b><br />
+This section contains analyses of hormones vs metabolic syndrome (new criteria).<br />
 
 
 
